@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 85 85">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #c64127;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <circle class="cls-2" cx="42.5" cy="42.5" r="42.5"/>
+    <g>
+      <path class="cls-1" d="m73.1,68.34c-.22.02-.44.05-.66.05-2.97,0-5.94,0-8.91,0-.22,0-.43,0-.69,0v-5.15h5.04V22.13h-5.03v-5.12c.11-.02.24-.06.37-.06,3.19,0,6.38,0,9.57,0,.1,0,.2.03.29.05v51.35Z"/>
+      <path class="cls-1" d="m16.61,63.22h5.03v5.12h-10.19V16.98h10.2v5.11h-5.04v41.14Z"/>
+      <path class="cls-1" d="m29.37,27.27v5.09h-5.09v-5.09h5.09Z"/>
+      <path class="cls-1" d="m39.71,27.26h5.08v5.1h-5.08v-5.1Z"/>
+      <path class="cls-1" d="m55.12,32.35v-5.07h5.09v5.07h-5.09Z"/>
+      <path class="cls-1" d="m24.27,58.05v-5.08h5.09v5.08h-5.09Z"/>
+      <path class="cls-1" d="m44.79,52.96v5.09h-5.09v-5.09h5.09Z"/>
+      <path class="cls-1" d="m60.21,52.97v5.09h-5.09v-5.09h5.09Z"/>
+      <path class="cls-1" d="m29.36,45.21h-5.09v-5.09h5.09v5.09Z"/>
+      <path class="cls-1" d="m44.79,40.17v5.03h-5.13c0-1.21,0-2.39,0-3.57q0-1.56,1.56-1.56c1.14,0,2.28.01,3.43.02.03,0,.07.03.14.07Z"/>
+      <path class="cls-1" d="m55.13,40.12h5.09v5.09h-5.09v-5.09Z"/>
+    </g>
+  </g>
+</svg>
