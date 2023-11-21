@@ -3,14 +3,32 @@
   <defs>
     <style>
       .cls-1 {
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-2 {
         fill: none;
         stroke: #76927a;
         stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #76927a;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
         stroke-width: 7px;
       }
     </style>
   </defs>
   <g id="Layer_5" data-name="Layer 5">
-    <rect class="cls-1" x="3.5" y="3.5" width="42.57" height="42.57" rx="10.46" ry="10.46"/>
+    <g>
+      <rect class="cls-2" x="3.5" y="3.5" width="42.57" height="42.57" rx="10.46" ry="10.46"/>
+      <g>
+        <line class="cls-1" x1="24.49" y1="15.12" x2="24.49" y2="27.43"/>
+        <polygon class="cls-3" points="20.05 24.06 24.49 25.94 28.93 24.06 24.49 34.59 20.05 24.06"/>
+      </g>
+    </g>
   </g>
 </svg>

@@ -3,22 +3,40 @@
   <defs>
     <style>
       .cls-1 {
-        fill: none;
-        stroke: #fff;
-        stroke-miterlimit: 10;
         stroke-width: 7px;
       }
 
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
       .cls-2 {
-        fill: #76927a;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4 {
         stroke-width: 0px;
+      }
+
+      .cls-4 {
+        fill: #76927a;
       }
     </style>
   </defs>
   <g id="Layer_5" data-name="Layer 5">
     <g>
-      <circle class="cls-2" cx="42.5" cy="42.5" r="42.5"/>
+      <circle class="cls-4" cx="42.5" cy="42.5" r="42.5"/>
       <rect class="cls-1" x="21.22" y="22.34" width="42.57" height="42.57" rx="10.46" ry="10.46"/>
+      <g>
+        <line class="cls-2" x1="43.34" y1="33.51" x2="43.34" y2="46.29"/>
+        <polygon class="cls-3" points="38.89 42.92 43.34 44.81 47.78 42.92 43.34 53.46 38.89 42.92"/>
+      </g>
     </g>
   </g>
 </svg>
