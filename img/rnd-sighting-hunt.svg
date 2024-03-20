@@ -12,20 +12,20 @@
         stroke-miterlimit: 10;
       }
 
+      .cls-2 {
+        stroke-width: 3px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #ffd109;
+      }
+
       .cls-3, .cls-4 {
         stroke-width: 0px;
       }
 
-      .cls-3, .cls-2 {
-        fill: #f2bb1e;
-      }
-
       .cls-4 {
         fill: #174477;
-      }
-
-      .cls-2 {
-        stroke-width: 3px;
       }
     </style>
   </defs>

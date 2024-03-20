@@ -2,26 +2,30 @@
 <svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 85.3 85.3">
   <defs>
     <style>
-      .cls-1, .cls-2 {
-        fill: #58529e;
-      }
-
-      .cls-3 {
-        fill: #fff;
-      }
-
-      .cls-4 {
+      .cls-1 {
         letter-spacing: 0em;
       }
 
       .cls-2 {
-        font-family: MyriadConceptRoman-Condensed, 'Myriad Variable Concept';
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        font-family: MyriadConceptRoman-Cond, 'Myriad Variable Concept';
         font-size: 10px;
         font-variation-settings: 'wght' 400, 'wdth' 70;
       }
 
-      .cls-5 {
-        fill: none;
+      .cls-5, .cls-3 {
+        fill: #58529e;
+      }
+
+      .cls-4 {
+        fill: #fff;
       }
 
       .cls-6 {
@@ -31,11 +35,11 @@
   </defs>
   <g id="Layer_1-2" data-name="Layer 1">
     <g>
-      <circle class="cls-5" cx="42.65" cy="42.65" r="42.65"/>
-      <polygon class="cls-1" points="35.57 61.1 34 73.76 24.64 74.71 33.1 76.38 50.38 76.38 58.6 74.95 49.9 74.23 48.7 60.14 35.57 61.1"/>
-      <rect class="cls-1" x="8.28" y="20.02" width="68.6" height="44.42"/>
-      <rect class="cls-3" x="12.16" y="23.16" width="61.38" height="37.41"/>
-      <text class="cls-2" transform="translate(12.6 45.14)"><tspan x="0" y="0">02</tspan><tspan class="cls-4" x="7.7" y="0">-</tspan><tspan class="cls-6" x="10.41" y="0">A</tspan><tspan x="14.56" y="0">C-05-98-F3-16</tspan></text>
+      <circle class="cls-2" cx="42.65" cy="42.65" r="42.65"/>
+      <polygon class="cls-3" points="35.57 61.1 34 73.76 24.64 74.71 33.1 76.38 50.38 76.38 58.6 74.95 49.9 74.23 48.7 60.14 35.57 61.1"/>
+      <rect class="cls-3" x="8.28" y="20.02" width="68.6" height="44.42"/>
+      <rect class="cls-4" x="12.16" y="23.16" width="61.38" height="37.41"/>
+      <text class="cls-5" transform="translate(12.6 45.14)"><tspan x="0" y="0">02</tspan><tspan class="cls-1" x="7.7" y="0">-</tspan><tspan class="cls-6" x="10.41" y="0">A</tspan><tspan x="14.56" y="0">C-05-98-F3-16</tspan></text>
     </g>
   </g>
 </svg>

@@ -3,25 +3,29 @@
   <defs>
     <style>
       .cls-1 {
-        fill: #58529e;
+        font-family: MyriadConceptRoman-BoldCond, 'Myriad Variable Concept';
+        font-size: 12px;
+        font-variation-settings: 'wght' 700, 'wdth' 70;
+        font-weight: 700;
       }
 
-      .cls-2, .cls-3 {
+      .cls-1, .cls-2 {
         fill: #fff;
       }
 
-      .cls-4 {
+      .cls-3 {
         fill: none;
         stroke: #fff;
         stroke-miterlimit: 10;
         stroke-width: 2px;
       }
 
-      .cls-3 {
-        font-family: MyriadConceptRoman-BoldCondensed, 'Myriad Variable Concept';
-        font-size: 12px;
-        font-variation-settings: 'wght' 700, 'wdth' 70;
-        font-weight: 700;
+      .cls-4 {
+        fill: #58529e;
+      }
+
+      .cls-4, .cls-2 {
+        stroke-width: 0px;
       }
 
       .cls-5 {
@@ -31,35 +35,35 @@
   </defs>
   <g id="Layer_1-2" data-name="Layer 1">
     <g>
-      <circle class="cls-1" cx="42.27" cy="42.27" r="42.27"/>
+      <circle class="cls-4" cx="42.27" cy="42.27" r="42.27"/>
       <g>
         <polygon class="cls-2" points="39.53 27.53 38.85 33.77 34.81 34.24 38.46 35.06 45.92 35.06 49.48 34.35 45.72 34 45.2 27.06 39.53 27.53"/>
         <rect class="cls-2" x="27.75" y="7.28" width="29.62" height="21.89"/>
-        <rect class="cls-1" x="30.87" y="9.84" width="23.61" height="16.42"/>
+        <rect class="cls-4" x="30.87" y="9.84" width="23.61" height="16.42"/>
       </g>
       <g>
         <polygon class="cls-2" points="60.38 56.78 59.7 63.02 55.66 63.49 59.31 64.31 66.77 64.31 70.33 63.6 66.57 63.25 66.05 56.31 60.38 56.78"/>
         <rect class="cls-2" x="48.6" y="36.53" width="29.62" height="21.89"/>
-        <rect class="cls-1" x="51.72" y="39.08" width="23.61" height="16.42"/>
+        <rect class="cls-4" x="51.72" y="39.08" width="23.61" height="16.42"/>
       </g>
       <g>
         <polygon class="cls-2" points="18.68 56.78 18 63.02 13.96 63.49 17.61 64.31 25.07 64.31 28.62 63.6 24.87 63.25 24.35 56.31 18.68 56.78"/>
         <rect class="cls-2" x="6.9" y="36.53" width="29.62" height="21.89"/>
-        <rect class="cls-1" x="10.02" y="39.08" width="23.61" height="16.42"/>
+        <rect class="cls-4" x="10.02" y="39.08" width="23.61" height="16.42"/>
       </g>
       <g>
-        <circle class="cls-4" cx="42.93" cy="70.7" r="5.31"/>
-        <path class="cls-4" d="m48.24,70.7h13.78c1.47-.48,1.04-2.51,1.04-4.18"/>
-        <path class="cls-4" d="m37.03,70.7h-13.78c-1.47-.48-1.04-2.51-1.04-4.18"/>
-        <line class="cls-4" x1="42.6" y1="50.11" x2="42.6" y2="37.33"/>
-        <line class="cls-4" x1="42.6" y1="54.42" x2="42.6" y2="52.4"/>
-        <line class="cls-4" x1="42.6" y1="58.72" x2="42.6" y2="56.7"/>
-        <line class="cls-4" x1="42.6" y1="62.96" x2="42.6" y2="60.94"/>
-        <line class="cls-4" x1="42.6" y1="71.53" x2="42.6" y2="69.51"/>
+        <circle class="cls-3" cx="42.93" cy="70.7" r="5.31"/>
+        <path class="cls-3" d="m48.24,70.7h13.78c1.47-.48,1.04-2.51,1.04-4.18"/>
+        <path class="cls-3" d="m37.03,70.7h-13.78c-1.47-.48-1.04-2.51-1.04-4.18"/>
+        <line class="cls-3" x1="42.6" y1="50.11" x2="42.6" y2="37.33"/>
+        <line class="cls-3" x1="42.6" y1="54.42" x2="42.6" y2="52.4"/>
+        <line class="cls-3" x1="42.6" y1="58.72" x2="42.6" y2="56.7"/>
+        <line class="cls-3" x1="42.6" y1="62.96" x2="42.6" y2="60.94"/>
+        <line class="cls-3" x1="42.6" y1="71.53" x2="42.6" y2="69.51"/>
       </g>
-      <text class="cls-3" transform="translate(35.59 22.03)"><tspan class="cls-5" x="0" y="0">T</tspan><tspan x="4.56" y="0">CP</tspan></text>
-      <text class="cls-3" transform="translate(56.87 50.66)"><tspan class="cls-5" x="0" y="0">T</tspan><tspan x="4.56" y="0">CP</tspan></text>
-      <text class="cls-3" transform="translate(14.64 50.66)"><tspan class="cls-5" x="0" y="0">T</tspan><tspan x="4.56" y="0">CP</tspan></text>
+      <text class="cls-1" transform="translate(35.59 22.03)"><tspan class="cls-5" x="0" y="0">T</tspan><tspan x="4.56" y="0">CP</tspan></text>
+      <text class="cls-1" transform="translate(56.87 50.66)"><tspan class="cls-5" x="0" y="0">T</tspan><tspan x="4.56" y="0">CP</tspan></text>
+      <text class="cls-1" transform="translate(14.64 50.66)"><tspan class="cls-5" x="0" y="0">T</tspan><tspan x="4.56" y="0">CP</tspan></text>
     </g>
   </g>
 </svg>

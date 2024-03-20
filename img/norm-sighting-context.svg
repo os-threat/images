@@ -3,25 +3,25 @@
   <defs>
     <style>
       .cls-1 {
-        fill: #174477;
-        stroke-width: 0px;
-      }
-
-      .cls-2 {
-        fill: #f2bb1e;
+        fill: #ffd109;
         stroke: #174477;
         stroke-miterlimit: 10;
         stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #174477;
+        stroke-width: 0px;
       }
     </style>
   </defs>
   <g id="Layer_5" data-name="Layer 5">
     <g>
-      <path class="cls-1" d="m0,31.28C4.42,18.99,20.92.24,41.27,0s40.88,24.48,40.88,31.28c0,5.97-20.72,31.41-40.51,31.17C21.85,62.21,2.45,41.79,0,31.88"/>
-      <circle class="cls-2" cx="41.27" cy="31.28" r="29.37"/>
+      <path class="cls-2" d="m0,31.28C4.42,18.99,20.92.24,41.27,0s40.88,24.48,40.88,31.28c0,5.97-20.72,31.41-40.51,31.17C21.85,62.21,2.45,41.79,0,31.88"/>
+      <circle class="cls-1" cx="41.27" cy="31.28" r="29.37"/>
       <g>
-        <rect class="cls-1" x="37.61" y="23.93" width="8.36" height="24.85" rx="3.61" ry="3.61"/>
-        <circle class="cls-1" cx="41.79" cy="15.58" r="4.14"/>
+        <rect class="cls-2" x="37.61" y="23.93" width="8.36" height="24.85" rx="3.61" ry="3.61"/>
+        <circle class="cls-2" cx="41.79" cy="15.58" r="4.14"/>
       </g>
     </g>
   </g>

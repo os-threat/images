@@ -3,38 +3,42 @@
   <defs>
     <style>
       .cls-1 {
-        fill: #58529e;
-      }
-
-      .cls-2 {
         fill: #fff;
         font-family: CopperplateGothic-Bold, 'Copperplate Gothic Bold';
         font-size: 11px;
         font-weight: 700;
       }
 
-      .cls-3 {
+      .cls-2 {
         fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #58529e;
       }
     </style>
   </defs>
   <g id="Layer_1-2" data-name="Layer 1">
     <g>
-      <circle class="cls-3" cx="42.65" cy="42.65" r="42.65"/>
+      <circle class="cls-2" cx="42.65" cy="42.65" r="42.65"/>
       <g>
-        <circle class="cls-1" cx="29.32" cy="22.67" r="4.68"/>
-        <circle class="cls-1" cx="25.86" cy="37.71" r="4.68"/>
-        <circle class="cls-1" cx="36.62" cy="46.42" r="4.68"/>
-        <circle class="cls-1" cx="52.14" cy="42.39" r="4.68"/>
-        <circle class="cls-1" cx="56.82" cy="28.36" r="4.68"/>
-        <circle class="cls-1" cx="47.47" cy="17.86" r="4.68"/>
-        <circle class="cls-1" cx="41.3" cy="32.14" r="4.68"/>
-        <rect class="cls-1" x="40.31" y="19.55" width="2" height="25.34" transform="translate(-10.33 41.05) rotate(-47.65)"/>
-        <path class="cls-1" d="m36.37,47.47l-11.63-8.44,3.73-17.17,19.33-5.12,10.11,11.34h0s.69.79.69.79l-.95.29-3.73,15.36-17.55,2.97Zm-9.11-9.09l9.61,6.97,15.42-2.61,3.14-12.93-28.17,8.56Zm2.91-14.91l-2.78,12.78,27.6-8.39-6.33-6.81.17-.16-1.71-1.92-16.96,4.49Z"/>
-        <rect class="cls-1" x="29.13" y="31.61" width="25.72" height="2" transform="translate(-2.01 62.45) rotate(-71.97)"/>
+        <circle class="cls-3" cx="29.32" cy="22.67" r="4.68"/>
+        <circle class="cls-3" cx="25.86" cy="37.71" r="4.68"/>
+        <circle class="cls-3" cx="36.62" cy="46.42" r="4.68"/>
+        <circle class="cls-3" cx="52.14" cy="42.39" r="4.68"/>
+        <circle class="cls-3" cx="56.82" cy="28.36" r="4.68"/>
+        <circle class="cls-3" cx="47.47" cy="17.86" r="4.68"/>
+        <circle class="cls-3" cx="41.3" cy="32.14" r="4.68"/>
+        <rect class="cls-3" x="40.31" y="19.55" width="2" height="25.34" transform="translate(-10.33 41.05) rotate(-47.65)"/>
+        <path class="cls-3" d="m36.37,47.47l-11.63-8.44,3.73-17.17,19.33-5.12,10.11,11.34h0s.69.79.69.79l-.95.29-3.73,15.36-17.55,2.97Zm-9.11-9.09l9.61,6.97,15.42-2.61,3.14-12.93-28.17,8.56Zm2.91-14.91l-2.78,12.78,27.6-8.39-6.33-6.81.17-.16-1.71-1.92-16.96,4.49Z"/>
+        <rect class="cls-3" x="29.13" y="31.61" width="25.72" height="2" transform="translate(-2.01 62.45) rotate(-71.97)"/>
       </g>
-      <polygon class="cls-1" points="71.93 70.12 11.76 70.12 5.06 57.1 80.24 57.36 71.93 70.12"/>
-      <text class="cls-2" transform="translate(27.68 67.25)"><tspan x="0" y="0">IPv6</tspan></text>
+      <polygon class="cls-3" points="71.93 70.12 11.76 70.12 5.06 57.1 80.24 57.36 71.93 70.12"/>
+      <text class="cls-1" transform="translate(27.68 67.25)"><tspan x="0" y="0">IPv6</tspan></text>
     </g>
   </g>
 </svg>

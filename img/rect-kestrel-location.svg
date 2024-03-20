@@ -6,40 +6,44 @@
         letter-spacing: -.03em;
       }
 
-      .cls-2, .cls-3, .cls-4 {
-        fill: #fff;
-      }
-
-      .cls-5 {
-        fill: #a45ea5;
-      }
-
-      .cls-3 {
-        fill-rule: evenodd;
-      }
-
-      .cls-4 {
+      .cls-2 {
         font-family: Tahoma, Tahoma;
         font-size: 8px;
       }
 
+      .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        fill-rule: evenodd;
+      }
+
       .cls-6 {
         letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        fill: #a45ea5;
       }
     </style>
   </defs>
   <g id="Layer_1-2" data-name="Layer 1">
     <g>
       <rect class="cls-5" x="0" width="84.54" height="84.54" rx="9.96" ry="9.96"/>
-      <path class="cls-3" d="m36.66,23.83c-.02-3.24,2.59-5.87,5.83-5.89.02,0,.05,0,.07,0,3.25.02,5.87,2.64,5.89,5.89.02,3.24-2.58,5.88-5.82,5.9-.02,0-.05,0-.07,0-3.25-.01-5.89-2.65-5.9-5.9Zm21.84-3.09c-1.55-7.34-7.15-13.14-15.94-13.14s-14.3,5.8-16,13.14c-3.09,14.59,7.64,30.24,16,41.74,8.31-11.5,19.13-27.25,15.94-41.74Z"/>
+      <path class="cls-4" d="m36.66,23.83c-.02-3.24,2.59-5.87,5.83-5.89.02,0,.05,0,.07,0,3.25.02,5.87,2.64,5.89,5.89.02,3.24-2.58,5.88-5.82,5.9-.02,0-.05,0-.07,0-3.25-.01-5.89-2.65-5.9-5.9Zm21.84-3.09c-1.55-7.34-7.15-13.14-15.94-13.14s-14.3,5.8-16,13.14c-3.09,14.59,7.64,30.24,16,41.74,8.31-11.5,19.13-27.25,15.94-41.74Z"/>
       <g>
         <rect class="cls-5" x="22.8" y="62.98" width="38.43" height="11.81"/>
         <g>
-          <polygon class="cls-2" points="26.06 64.17 23.87 64.17 27.01 68.63 29.2 68.63 26.06 64.17"/>
-          <polygon class="cls-2" points="32.34 64.17 30.16 64.17 33.3 68.63 35.48 68.63 32.34 64.17"/>
-          <polygon class="cls-2" points="33.3 68.63 35.48 68.63 32.34 73.08 30.16 73.08 33.3 68.63"/>
-          <polygon class="cls-2" points="30.03 68.63 32.21 68.63 29.07 73.08 26.89 73.08 30.03 68.63"/>
-          <text class="cls-4" transform="translate(37.49 71.34)"><tspan class="cls-1" x="0" y="0">K</tspan><tspan x="4.48" y="0">est</tspan><tspan class="cls-6" x="14.94" y="0">r</tspan><tspan x="17.78" y="0">el</tspan></text>
+          <polygon class="cls-3" points="26.06 64.17 23.87 64.17 27.01 68.63 29.2 68.63 26.06 64.17"/>
+          <polygon class="cls-3" points="32.34 64.17 30.16 64.17 33.3 68.63 35.48 68.63 32.34 64.17"/>
+          <polygon class="cls-3" points="33.3 68.63 35.48 68.63 32.34 73.08 30.16 73.08 33.3 68.63"/>
+          <polygon class="cls-3" points="30.03 68.63 32.21 68.63 29.07 73.08 26.89 73.08 30.03 68.63"/>
+          <text class="cls-2" transform="translate(37.49 71.34)"><tspan class="cls-1" x="0" y="0">K</tspan><tspan x="4.48" y="0">est</tspan><tspan class="cls-6" x="14.94" y="0">r</tspan><tspan x="17.78" y="0">el</tspan></text>
         </g>
       </g>
     </g>

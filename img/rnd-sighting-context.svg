@@ -2,34 +2,34 @@
 <svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 85 85">
   <defs>
     <style>
-      .cls-1, .cls-2 {
-        stroke-width: 0px;
-      }
-
-      .cls-1, .cls-3 {
-        fill: #f2bb1e;
-      }
-
-      .cls-2 {
-        fill: #174477;
-      }
-
-      .cls-3 {
+      .cls-1 {
         stroke: #174477;
         stroke-miterlimit: 10;
         stroke-width: 3px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #ffd109;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #174477;
       }
     </style>
   </defs>
   <g id="Layer_5" data-name="Layer 5">
     <g>
-      <circle class="cls-1" cx="42.5" cy="42.5" r="42.5"/>
+      <circle class="cls-2" cx="42.5" cy="42.5" r="42.5"/>
       <g>
-        <path class="cls-2" d="m1.42,43.28C5.84,30.99,22.35,12.24,42.69,12s40.88,24.48,40.88,31.28c0,5.97-20.72,31.41-40.51,31.17-19.79-.24-39.19-20.66-41.64-30.57"/>
-        <circle class="cls-3" cx="42.69" cy="43.28" r="29.37"/>
+        <path class="cls-3" d="m1.42,43.28C5.84,30.99,22.35,12.24,42.69,12s40.88,24.48,40.88,31.28c0,5.97-20.72,31.41-40.51,31.17-19.79-.24-39.19-20.66-41.64-30.57"/>
+        <circle class="cls-1" cx="42.69" cy="43.28" r="29.37"/>
         <g>
-          <rect class="cls-2" x="39.39" y="35.82" width="8.36" height="24.85" rx="3.61" ry="3.61"/>
-          <circle class="cls-2" cx="43.57" cy="27.47" r="4.14"/>
+          <rect class="cls-3" x="39.39" y="35.82" width="8.36" height="24.85" rx="3.61" ry="3.61"/>
+          <circle class="cls-3" cx="43.57" cy="27.47" r="4.14"/>
         </g>
       </g>
     </g>

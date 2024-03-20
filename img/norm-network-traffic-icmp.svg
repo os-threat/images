@@ -12,19 +12,23 @@
         fill: none;
       }
 
+      .cls-3 {
+        font-family: MyriadConceptRoman-BoldCond, 'Myriad Variable Concept';
+        font-size: 12px;
+        font-variation-settings: 'wght' 700, 'wdth' 70;
+        font-weight: 700;
+      }
+
       .cls-3, .cls-4 {
         fill: #58529e;
       }
 
-      .cls-5 {
-        fill: #fff;
+      .cls-2, .cls-4, .cls-5 {
+        stroke-width: 0px;
       }
 
-      .cls-4 {
-        font-family: MyriadConceptRoman-BoldCondensed, 'Myriad Variable Concept';
-        font-size: 12px;
-        font-variation-settings: 'wght' 700, 'wdth' 70;
-        font-weight: 700;
+      .cls-5 {
+        fill: #fff;
       }
     </style>
   </defs>
@@ -32,18 +36,18 @@
     <g>
       <circle class="cls-2" cx="42.27" cy="42.27" r="42.27"/>
       <g>
-        <polygon class="cls-3" points="38.02 25.26 37.34 31.5 33.3 31.97 36.96 32.8 44.42 32.8 47.97 32.09 44.21 31.74 43.69 24.79 38.02 25.26"/>
-        <rect class="cls-3" x="26.24" y="5.02" width="29.62" height="21.89"/>
+        <polygon class="cls-4" points="38.02 25.26 37.34 31.5 33.3 31.97 36.96 32.8 44.42 32.8 47.97 32.09 44.21 31.74 43.69 24.79 38.02 25.26"/>
+        <rect class="cls-4" x="26.24" y="5.02" width="29.62" height="21.89"/>
         <rect class="cls-5" x="29.36" y="7.57" width="23.61" height="16.42"/>
       </g>
       <g>
-        <polygon class="cls-3" points="58.87 54.51 58.19 60.75 54.16 61.22 57.81 62.05 65.27 62.05 68.82 61.34 65.06 60.99 64.54 54.04 58.87 54.51"/>
-        <rect class="cls-3" x="47.09" y="34.27" width="29.62" height="21.89"/>
+        <polygon class="cls-4" points="58.87 54.51 58.19 60.75 54.16 61.22 57.81 62.05 65.27 62.05 68.82 61.34 65.06 60.99 64.54 54.04 58.87 54.51"/>
+        <rect class="cls-4" x="47.09" y="34.27" width="29.62" height="21.89"/>
         <rect class="cls-5" x="50.21" y="36.82" width="23.61" height="16.42"/>
       </g>
       <g>
-        <polygon class="cls-3" points="17.17 54.51 16.49 60.75 12.45 61.22 16.11 62.05 23.57 62.05 27.12 61.34 23.36 60.99 22.84 54.04 17.17 54.51"/>
-        <rect class="cls-3" x="5.39" y="34.27" width="29.62" height="21.89"/>
+        <polygon class="cls-4" points="17.17 54.51 16.49 60.75 12.45 61.22 16.11 62.05 23.57 62.05 27.12 61.34 23.36 60.99 22.84 54.04 17.17 54.51"/>
+        <rect class="cls-4" x="5.39" y="34.27" width="29.62" height="21.89"/>
         <rect class="cls-5" x="8.51" y="36.82" width="23.61" height="16.42"/>
       </g>
       <g>
@@ -56,9 +60,9 @@
         <line class="cls-1" x1="41.1" y1="60.7" x2="41.1" y2="58.68"/>
         <line class="cls-1" x1="41.1" y1="69.26" x2="41.1" y2="67.24"/>
       </g>
-      <text class="cls-4" transform="translate(30.73 19.89)"><tspan x="0" y="0">ICMP</tspan></text>
-      <text class="cls-4" transform="translate(52.01 48.52)"><tspan x="0" y="0">ICMP</tspan></text>
-      <text class="cls-4" transform="translate(9.78 48.52)"><tspan x="0" y="0">ICMP</tspan></text>
+      <text class="cls-3" transform="translate(30.73 19.89)"><tspan x="0" y="0">ICMP</tspan></text>
+      <text class="cls-3" transform="translate(52.01 48.52)"><tspan x="0" y="0">ICMP</tspan></text>
+      <text class="cls-3" transform="translate(9.78 48.52)"><tspan x="0" y="0">ICMP</tspan></text>
     </g>
   </g>
 </svg>

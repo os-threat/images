@@ -2,24 +2,28 @@
 <svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 85.3 85.3">
   <defs>
     <style>
+      .cls-1 {
+        font-family: CopperplateGothic-Bold, 'Copperplate Gothic Bold';
+        font-size: 11px;
+        font-weight: 700;
+      }
+
       .cls-1, .cls-2 {
         fill: #58529e;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
       }
 
       .cls-3 {
         fill: #fff;
       }
-
-      .cls-2 {
-        font-family: CopperplateGothic-Bold, 'Copperplate Gothic Bold';
-        font-size: 11px;
-        font-weight: 700;
-      }
     </style>
   </defs>
   <g id="Layer_1-2" data-name="Layer 1">
     <g>
-      <circle class="cls-1" cx="42.65" cy="42.65" r="42.65"/>
+      <circle class="cls-2" cx="42.65" cy="42.65" r="42.65"/>
       <g>
         <circle class="cls-3" cx="29.32" cy="19.04" r="4.68"/>
         <circle class="cls-3" cx="25.86" cy="34.08" r="4.68"/>
@@ -33,7 +37,7 @@
         <rect class="cls-3" x="29.13" y="27.98" width="25.72" height="2" transform="translate(1.44 59.94) rotate(-71.97)"/>
       </g>
       <polygon class="cls-3" points="71.93 66.16 11.76 66.16 5.06 53.14 80.24 53.4 71.93 66.16"/>
-      <text class="cls-2" transform="translate(27.68 63.29)"><tspan x="0" y="0">IPv4</tspan></text>
+      <text class="cls-1" transform="translate(27.68 63.29)"><tspan x="0" y="0">IPv4</tspan></text>
     </g>
   </g>
 </svg>

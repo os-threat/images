@@ -15,24 +15,24 @@
         stroke-miterlimit: 10;
       }
 
-      .cls-4, .cls-5 {
-        stroke-width: 0px;
-      }
-
-      .cls-4, .cls-3 {
-        fill: #f2bb1e;
-      }
-
       .cls-2 {
         stroke-width: 5px;
       }
 
-      .cls-5 {
-        fill: #174477;
-      }
-
       .cls-3 {
         stroke-width: 3px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #ffd109;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        fill: #174477;
       }
     </style>
   </defs>

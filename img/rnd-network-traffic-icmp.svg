@@ -3,59 +3,63 @@
   <defs>
     <style>
       .cls-1 {
-        fill: #58529e;
+        font-family: MyriadConceptRoman-BoldCond, 'Myriad Variable Concept';
+        font-size: 12px;
+        font-variation-settings: 'wght' 700, 'wdth' 70;
+        font-weight: 700;
       }
 
-      .cls-2, .cls-3 {
+      .cls-1, .cls-2 {
         fill: #fff;
       }
 
-      .cls-4 {
+      .cls-3 {
         fill: none;
         stroke: #fff;
         stroke-miterlimit: 10;
         stroke-width: 2px;
       }
 
-      .cls-3 {
-        font-family: MyriadConceptRoman-BoldCondensed, 'Myriad Variable Concept';
-        font-size: 12px;
-        font-variation-settings: 'wght' 700, 'wdth' 70;
-        font-weight: 700;
+      .cls-4 {
+        fill: #58529e;
+      }
+
+      .cls-4, .cls-2 {
+        stroke-width: 0px;
       }
     </style>
   </defs>
   <g id="Layer_1-2" data-name="Layer 1">
     <g>
-      <circle class="cls-1" cx="42.32" cy="42.32" r="42.32"/>
+      <circle class="cls-4" cx="42.32" cy="42.32" r="42.32"/>
       <g>
         <polygon class="cls-2" points="39.68 27.45 39 33.69 34.96 34.16 38.61 34.98 46.07 34.98 49.62 34.28 45.87 33.93 45.35 26.98 39.68 27.45"/>
         <rect class="cls-2" x="27.9" y="7.21" width="29.62" height="21.89"/>
-        <rect class="cls-1" x="31.02" y="9.76" width="23.61" height="16.42"/>
+        <rect class="cls-4" x="31.02" y="9.76" width="23.61" height="16.42"/>
       </g>
       <g>
         <polygon class="cls-2" points="60.53 56.7 59.85 62.94 55.81 63.41 59.46 64.23 66.92 64.23 70.48 63.53 66.72 63.17 66.2 56.23 60.53 56.7"/>
         <rect class="cls-2" x="48.75" y="36.46" width="29.62" height="21.89"/>
-        <rect class="cls-1" x="51.87" y="39.01" width="23.61" height="16.42"/>
+        <rect class="cls-4" x="51.87" y="39.01" width="23.61" height="16.42"/>
       </g>
       <g>
         <polygon class="cls-2" points="18.83 56.7 18.15 62.94 14.11 63.41 17.76 64.23 25.22 64.23 28.77 63.53 25.02 63.17 24.5 56.23 18.83 56.7"/>
         <rect class="cls-2" x="7.05" y="36.46" width="29.62" height="21.89"/>
-        <rect class="cls-1" x="10.17" y="39.01" width="23.61" height="16.42"/>
+        <rect class="cls-4" x="10.17" y="39.01" width="23.61" height="16.42"/>
       </g>
       <g>
-        <circle class="cls-4" cx="43.08" cy="70.62" r="5.31"/>
-        <path class="cls-4" d="m48.39,70.62h13.78c1.47-.48,1.04-2.51,1.04-4.18"/>
-        <path class="cls-4" d="m37.18,70.62h-13.78c-1.47-.48-1.04-2.51-1.04-4.18"/>
-        <line class="cls-4" x1="42.75" y1="50.03" x2="42.75" y2="37.25"/>
-        <line class="cls-4" x1="42.75" y1="54.35" x2="42.75" y2="52.33"/>
-        <line class="cls-4" x1="42.75" y1="58.65" x2="42.75" y2="56.63"/>
-        <line class="cls-4" x1="42.75" y1="62.88" x2="42.75" y2="60.86"/>
-        <line class="cls-4" x1="42.75" y1="71.45" x2="42.75" y2="69.43"/>
+        <circle class="cls-3" cx="43.08" cy="70.62" r="5.31"/>
+        <path class="cls-3" d="m48.39,70.62h13.78c1.47-.48,1.04-2.51,1.04-4.18"/>
+        <path class="cls-3" d="m37.18,70.62h-13.78c-1.47-.48-1.04-2.51-1.04-4.18"/>
+        <line class="cls-3" x1="42.75" y1="50.03" x2="42.75" y2="37.25"/>
+        <line class="cls-3" x1="42.75" y1="54.35" x2="42.75" y2="52.33"/>
+        <line class="cls-3" x1="42.75" y1="58.65" x2="42.75" y2="56.63"/>
+        <line class="cls-3" x1="42.75" y1="62.88" x2="42.75" y2="60.86"/>
+        <line class="cls-3" x1="42.75" y1="71.45" x2="42.75" y2="69.43"/>
       </g>
-      <text class="cls-3" transform="translate(32.71 21.95)"><tspan x="0" y="0">ICMP</tspan></text>
-      <text class="cls-3" transform="translate(53.99 50.58)"><tspan x="0" y="0">ICMP</tspan></text>
-      <text class="cls-3" transform="translate(11.76 50.58)"><tspan x="0" y="0">ICMP</tspan></text>
+      <text class="cls-1" transform="translate(32.71 21.95)"><tspan x="0" y="0">ICMP</tspan></text>
+      <text class="cls-1" transform="translate(53.99 50.58)"><tspan x="0" y="0">ICMP</tspan></text>
+      <text class="cls-1" transform="translate(11.76 50.58)"><tspan x="0" y="0">ICMP</tspan></text>
     </g>
   </g>
 </svg>

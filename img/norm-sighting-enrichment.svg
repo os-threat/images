@@ -2,22 +2,23 @@
 <svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 82.15 62.45">
   <defs>
     <style>
+      .cls-1 {
+        fill: #f2bb1e;
+      }
+
       .cls-1, .cls-2 {
         stroke-width: 0px;
       }
 
-      .cls-1, .cls-3 {
-        fill: #f2bb1e;
+      .cls-3 {
+        fill: #ffd109;
+        stroke: #174477;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
       }
 
       .cls-2 {
         fill: #174477;
-      }
-
-      .cls-3 {
-        stroke: #174477;
-        stroke-miterlimit: 10;
-        stroke-width: 3px;
       }
     </style>
   </defs>

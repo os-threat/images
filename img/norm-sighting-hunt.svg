@@ -4,22 +4,21 @@
     <style>
       .cls-1 {
         fill: none;
+        stroke: #174477;
+        stroke-miterlimit: 10;
         stroke-width: 2px;
       }
 
-      .cls-1, .cls-2 {
-        stroke: #174477;
-        stroke-miterlimit: 10;
+      .cls-2 {
+        fill: #ffd109;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
       }
 
       .cls-3 {
         fill: #174477;
-        stroke-width: 0px;
-      }
-
-      .cls-2 {
-        fill: #f2bb1e;
-        stroke-width: 3px;
       }
     </style>
   </defs>
